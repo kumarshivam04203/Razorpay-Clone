@@ -1,2 +1,2 @@
 # Razorpay-Clone
-Razorpay-Clone using Tailwind CSS
+Razorpay-Clone using Tailwind CSS.
