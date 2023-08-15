@@ -1,3 +1,3 @@
 # Razorpay-Clone
-Razorpay-Clone using Tailwind CSS.
+Razorpay-Clone using Tailwind CSS...
 Tailwind CSS is basically a utility-first CSS framework for rapidly build Razorpay Website-Clone . It is a highly customizable, low-level CSS framework that gives you all of the building blocks you need to build bespoke designs without any annoying opinionated styles you have to fight to override.
